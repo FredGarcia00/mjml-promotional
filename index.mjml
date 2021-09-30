@@ -1,0 +1,27 @@
+<mjml>
+	<mj-head>
+   <mj-attributes>
+     <mj-column />
+    </mj-attributes>
+  	 </mj-head>
+  
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/proxy/kYE3kN_UrhXGzVp6HoJnAI_CUKClxuL-eq-5tCNYJAhZW7tIBFaiAs9rnYgW4ffAd3KhSfEGPupL7aALFBi5MU62CwzpZ8hbuxVI9ms7RNk=s0-d-ft-nd#https://tpc.googlesyndication.com/simgad/18169757797538576059" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px">
+          Get Paid to Write.
+          
+        </mj-text>
+        <mj-text line-height="1.4" font-size="15px">
+          If your a good writer, you should be paid well. Discover what your talent if worth here!
+        </mj-text>
+        <mj-button href="#" background-color="#1a73e8" width="100%">
+          Click here
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
